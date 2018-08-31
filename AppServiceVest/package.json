@@ -1,0 +1,14 @@
+{
+  "name": "RestAPI",
+  "version": "0.0.0",
+  "description": "RestAPI",
+  "main": "app.js",
+  "author": {
+    "name": "john",
+    "email": ""
+  },
+  "dependencies": {
+    "mongoose": "^5.2.9",
+    "restify": "^4.1.1"
+  }
+}
